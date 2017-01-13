@@ -1,0 +1,5 @@
+configuration:  
+  projectName: CloudConfigClient
+server:  
+  port: 8001
+message: Hello from the configuration big smile
